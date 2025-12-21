@@ -3,7 +3,7 @@
 **`Desenvolvedor Web Full-Stack`**
 **`Desenvolvedor Mobile`**
 
-Sou desenvolvedor de software em diferentes plataformas, focado em desenvolvimento web full-stack. Me formei como técnico em Desenvolvimento de Sistemas na Etec de Cotia. Atualmente estou me graduando em Ciência da Computação, na Universidade Presbteriana Mackenzie, e trabalhando como Freelancer.
+Sou desenvolvedor de software em diferentes plataformas, focado em desenvolvimento web full-stack. Me formei como técnico em Desenvolvimento de Sistemas na Etec de Cotia. Atualmente estou me graduando em Ciência da Computação, na Universidade Presbiteriana Mackenzie, e trabalhando como Freelancer.
 
 Na prática, já trabalhei em diferentes grupos construindo projetos do zero, com planejamento, pesquisa, prototipação, construção de interfaces, banco de dados e comunicação via API.
 
