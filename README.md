@@ -26,5 +26,4 @@ Na prática, já trabalhei em diferentes grupos construindo projetos do zero, co
 
 #### Android
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="width: 40px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 40px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 40px;" />
 
