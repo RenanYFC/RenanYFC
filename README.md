@@ -4,7 +4,7 @@
 **`Desenvolvedor Mobile`**
 **`Freelance`**
 
-Sou desenvolvedor de software em diferentes plataformas, focado em desenvolvimento web full-stack. Tenho experiência em projetos acadêmicos e freelances para empresas reais. Me formei como técnico em Desenvolvimento de Sistemas na Etec de Cotia. Atualmente estou me graduando em Ciência da Computação, na Universidade Presbiteriana Mackenzie.
+Desenvolvedor Full Stack focado na criação de aplicações web modernas, com experiência prática no desenvolvimento de ponta a ponta — desde a construção de interfaces com React até a estruturação de servidores e APIs utilizando Node.js e Express. Atuando em projetos reais como freelancer e em competições de inovação, desenvolvi uma visão sólida sobre como integrar bancos de dados SQL e entregar soluções funcionais que resolvem problemas reais. Sou Técnico em Desenvolvimento de Sistemas estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie. Possuo também uma base em desenvolvimento mobile para Android e iOS, que utilizo como suporte técnico adicional. 
 
 Na prática, já trabalhei em diferentes grupos construindo projetos do zero, com planejamento, pesquisa, prototipação, construção de interfaces, banco de dados e comunicação via API.
 
@@ -16,6 +16,7 @@ Na prática, já trabalhei em diferentes grupos construindo projetos do zero, co
 
 #### Back-End & Tooling
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="width: 40px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width: 40px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" style="width: 40px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  style="width: 40px;" />
 
 #### Qualidade de Software & Algoritmos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 40px;" />
